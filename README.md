@@ -10,7 +10,8 @@
 현재 스크립트에는 게이트웨이서버, 메인서버, 스태틱 서버만 추가되어있습니다.
 스크립트에 추가로 변수를 정의한 후 서버 리스트 배열에 해당 변수를 추가해주세요.
 
-이후 각 개발환경에 맞게 gradle bootRun 명령을 백그라운드로 설정한 후, alias로 등록하여 사용합니다. (각 빌드 경로를 맞춰놓고 java -jar로 동작시켜도 됩니다.)
+이후 각 개발환경에 맞게 gradle bootRun 명령을 백그라운드로 설정한 후, alias로 등록하여 사용합니다.
+(각 빌드 경로를 맞춰놓고 java -jar로 동작시켜도 됩니다.)
 ```
 
 ![image](https://github.com/Zorup/shell/blob/main/images/run.png)
